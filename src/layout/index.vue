@@ -1,7 +1,6 @@
 <template>
-  <div id="app">
-  <!-- 路由出口 -->
-    <router-view></router-view>
+  <div class="layout">
+    <el-header>sssssss</el-header>
   </div>
 </template>
 
